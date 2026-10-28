@@ -1,0 +1,3 @@
+.DS_Store
+# local E2E test repo (nested git repo + runtime state)
+sandbox/
